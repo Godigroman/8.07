@@ -213,7 +213,7 @@ meta.yaml:
 
 3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
 
-![](https://cdn.discordapp.com/attachments/1258025226546184202/1258026036021559409/image.png?ex=66868b8b&is=66853a0b&hm=c74c4ac06204c6539c886a5244e36940fa8235ac4d6bf86d5ab8b56a3e66c9a7&)
+![](https://cdn.discordapp.com/attachments/1258025226546184202/1258029783401631885/image.png?ex=66868f09&is=66853d89&hm=46641beac1b37155c84b2ceaed299aeb52ced62f3c978538ed361e0d59709f3a&)
 
 ---
 ---
